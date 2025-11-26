@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img alt="GHBanner" src="https://preview.redd.it/deadlock-logo-and-background-for-steam-cover-v0-kct7tr0zq1jd1.png?width=512&format=png&auto=webp&s=1efd79d6f054816fc1cd719931d854bdc3cf9757" />
 </div>
 
 ## Run Locally
